@@ -1,0 +1,16 @@
+.parent {
+              
+    color: red;
+}
+
+.parent .child {
+      color: aquamarine;
+      
+
+}
+
+.parent .child:hover {
+
+color: green;
+
+}
